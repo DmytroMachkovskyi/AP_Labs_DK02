@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Dima/KPI/APCP/Laba32MDV
+vSubsystem
+Z0 !s110 1666724750
+!i10b 1
+!s100 GLBaZ_Ka@F:VGg61Z4YBk3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IzfCS6ihMkWjO:3iKfo`1e1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/Dima/KPI/KorotkKat/Laba1ModelSim
+w1666724386
+8Subsystem.v
+FSubsystem.v
+!i122 2
+L0 40 221
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1666724750.000000
+!s107 Subsystem.v|
+!s90 -reportprogress|300|Subsystem.v|
+!i113 1
+Z6 tCvgOpt 0
+n@subsystem
+vSubsystem_tb
+R0
+!i10b 1
+!s100 _IUN4=0eiNYF`?TERaM_C2
+R1
+IOXV2jZ2W7=<`4YjMc=laL3
+R2
+R3
+w1666724470
+8Subsystem_tb.v
+FSubsystem_tb.v
+!i122 3
+L0 40 625
+R4
+r1
+!s85 0
+31
+R5
+!s107 Subsystem_tb.v|
+!s90 -reportprogress|300|Subsystem_tb.v|
+!i113 1
+R6
+n@subsystem_tb
